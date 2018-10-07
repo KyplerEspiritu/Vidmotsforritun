@@ -1,3 +1,9 @@
+/*
+----------ATH----------
+Fékk hjálp frá þessu myndbandi:
+https://www.youtube.com/watch?v=kB0ZVUrI4Aw
+*/
+
 var vertexShaderText = 'precision mediump float;' + 
 					   'attribute vec2 vertPostion;' + 
 					   'void main(){gl_Position = vec4(vertPostion, 0.0, 1.5);}';
