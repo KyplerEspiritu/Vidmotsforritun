@@ -117,7 +117,8 @@ True
 minn supportar það ekki notaði ég Vuforia. Í verkefninu áttum við að miða á plane með myndavélinni á símanum og þá átti að koma android 
 vélmennið. En eins og áður supportar síminn minn ekki ground plane finder þannig ég notaði ImageTarget sem fylgdi með Vuforia sample kóða.
 ImageTarget er að síminn leitar af einhverju mynd eða hlut og birtir svo eitthvað onná það. Hjá mér notaði ég spaða ás þannig þegar myndavélin
-sá spaða ás birtist android droid-ið.
+sá spaða ás birtist android droid-ið.\
+Myndband: https://www.youtube.com/watch?v=_CtNiGWSIhw
 
 
 
@@ -128,11 +129,13 @@ leita
 
 
 ## Dæmi 4
-Í dæmi 4 þegar þú miðar myndavélinni á birtast helling af kössum fyrir ofan.
+Í dæmi 4 þegar þú miðar myndavélinni á birtast helling af kössum fyrir ofan.\
+Myndband: https://www.youtube.com/watch?v=CYftwbhMmLc&feature=youtu.be
 
 
 
 ## Dæmi 5
 Í dæmi 5 var ég að gera helling af tilraunum. Fyrst var ég að reyna birta sólarkerfi en útkoman var ekki nógu sannfærandi. Þannig að lokum
 gerði ég stórt box sem birtist onná spaða ásnum og tré fyrir ofan boxið og svo tvær kúlur sem eru að fara í kringum boxið. Ég bæti við
-rotateCube script sem gerði animation fyrir kúlurnar.
+rotateCube script sem gerði animation fyrir kúlurnar.\
+Myndband: https://www.youtube.com/watch?v=dukYuYCLLpA&feature=youtu.be
