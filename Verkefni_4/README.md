@@ -133,6 +133,6 @@ leita
 
 
 ## Dæmi 5
-í dæmi 5 var ég að gera helling af tilraunum. Fyrst var ég að reyna birta sólarkerfi en útkoman var ekki nógu sannfærandi. Þannig að lokum
+Í dæmi 5 var ég að gera helling af tilraunum. Fyrst var ég að reyna birta sólarkerfi en útkoman var ekki nógu sannfærandi. Þannig að lokum
 gerði ég stórt box sem birtist onná spaða ásnum og tré fyrir ofan boxið og svo tvær kúlur sem eru að fara í kringum boxið. Ég bæti við
 rotateCube script sem gerði animation fyrir kúlurnar.
